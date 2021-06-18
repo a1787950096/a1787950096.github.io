@@ -12,3 +12,6 @@ header,
     -o-background-size: cover;      /* 针对Operallq */
     background-size: cover;         /* 通用 */
 }
+.streak.streak-photo {
+    background-attachment: fixed;
+  }
